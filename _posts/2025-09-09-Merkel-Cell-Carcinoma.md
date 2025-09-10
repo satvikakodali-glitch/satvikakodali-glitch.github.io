@@ -2,11 +2,7 @@ Have you ever heard of skin cancer that’s not only rare but also incredibly ag
 
 Merkel cell carcinoma often appears as a small, firm, painless nodule on sun-exposed skin, such as the face, neck, or arms. These nodules can look harmless, sometimes mistaken for a cyst or insect bite but they grow quickly. Detection usually starts with a skin exam and biopsy to confirm cancer cells. Imaging tests like CT scans, PET scans, or sentinel lymph node biopsies may then be used to check if the cancer has spread. Early detection is vital because MCC is known to metastasize much faster than other skin cancers.
 
-While anyone can develop MCC, certain groups are at much higher risk:
-  -Older adults: The median age of diagnosis is around 70.
-  -People with fair skin: MCC is more common in individuals with lighter skin tones, particularly those with a history of sun exposure.
-  -Immunosuppressed patients: Those who have had organ transplants, HIV/AIDS, or other immune-compromising conditions are at significantly higher risk.
-  -Merkel cell polyomavirus: A virus discovered in 2008 is present in about 80% of MCC cases. This link makes MCC one of the few human cancers strongly tied to a viral cause.
+While anyone can develop MCC, certain groups are at much higher risk: Older adults as the median age of diagnosis is around 70 and people with fair skin as MCC is more common in individuals with lighter skin tones, particularly those with a history of sun exposure. Additionally, immunosuppressed patients as those who have had organ transplants, HIV/AIDS, or other immune-compromising conditions are at significantly higher risk. Furthermore, merkel cell polyomavirus is a virus discovered in 2008 is present in about 80% of MCC cases. This link makes MCC one of the few human cancers strongly tied to a viral cause.
 
 MCC is staged using the American Joint Committee on Cancer (AJCC) system, which considers tumor size, lymph node involvement, and distant metastasis:
  
@@ -18,15 +14,7 @@ MCC is staged using the American Joint Committee on Cancer (AJCC) system, which 
   
 Another important classification is whether the cancer is virus positive or virus negative. Virus positive MCCs are linked to the Merkel cell polyomavirus, while virus negative ones are typically associated with extensive sun damage. This distinction matters for prognosis and potential treatment options.
 
-Because of its aggressiveness, MCC treatment usually involves multiple approaches:
- 
-  -Surgery: Wide excision of the tumor, often with a sentinel lymph node biopsy.
-  
-  -Radiation therapy: Frequently used after surgery to kill any remaining cancer cells.
-  
-  -Immunotherapy: Drugs like pembrolizumab and avelumab (immune checkpoint inhibitors) help the patient’s immune system recognize and destroy cancer cells. Immunotherapy has been a game-changer, giving hope to patients with advanced MCC.
-
-  -Chemotherapy: Still used, especially in advanced cases, but tends to have short-lived effects compared to immunotherapy.
+Because of its aggressiveness, MCC treatment usually involves multiple approaches: Surgery for wide excision of the tumor, often with a sentinel lymph node biopsy, radiation therapy that is frequently used after surgery to kill any remaining cancer cells, and immunotherapy where drugs like pembrolizumab and avelumab (immune checkpoint inhibitors) help the patient’s immune system recognize and destroy cancer cells. Immunotherapy has been a game-changer, giving hope to patients with advanced MCC. Additionally, Chemotherapy is still used, especially in advanced cases, but tends to have short-lived effects compared to immunotherapy.
 
 MCC is aggressive, but life expectancy depends heavily on the stage at diagnosis:
  
