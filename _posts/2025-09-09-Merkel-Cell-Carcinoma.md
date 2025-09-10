@@ -46,7 +46,9 @@ Merkel cell carcinoma may be rare, but studying it provides valuable insights in
 
 <img width="1200" height="925" alt="image" src="https://github.com/user-attachments/assets/b395b1fe-7cca-40b9-a763-abf14fde8cd7" />
 
+
 Sources:
+
 https://www.cancer.gov/types/skin/patient/merkel-cell-treatment-pdq
 https://www.cancer.org/cancer/types/merkel-cell-skin-cancer.html
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10173065/
